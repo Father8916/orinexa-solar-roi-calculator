@@ -687,7 +687,7 @@ const SolarROICalculator = () => {
             Get your personalized solar investment analysis in under 2 minutes
           </p>
           <p className="text-sm text-gray-500 mt-2">
-            🇺🇸 Available for US residents only • All 50 states supported
+               Available for US residents only • All 50 states supported
           </p>
         </div>
 
